@@ -1,0 +1,60 @@
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.exe
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.deps.json
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.runtimeconfig.json
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.dll
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.pdb
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.csproj.AssemblyReference.cache
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.GeneratedMSBuildEditorConfig.editorconfig
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.AssemblyInfoInputs.cache
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.AssemblyInfo.cs
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.csproj.CoreCompileInputs.cache
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.dll
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\refint\Zadanie 1. trójkąt.dll
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.pdb
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.genruntimeconfig.cache
+G:\.Tutaj sa pliki tworzone w VisualStudio\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\ref\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.exe
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.deps.json
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.runtimeconfig.json
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.pdb
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.csproj.AssemblyReference.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.AssemblyInfoInputs.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.AssemblyInfo.cs
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.csproj.CoreCompileInputs.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\refint\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.pdb
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.genruntimeconfig.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1. trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\ref\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.exe
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.deps.json
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.runtimeconfig.json
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.pdb
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.csproj.AssemblyReference.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.AssemblyInfoInputs.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.AssemblyInfo.cs
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.csproj.CoreCompileInputs.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\refint\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.pdb
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.genruntimeconfig.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\ref\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.exe
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.deps.json
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.runtimeconfig.json
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\bin\Debug\net6.0\Zadanie 1. trójkąt.pdb
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.csproj.AssemblyReference.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.AssemblyInfoInputs.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.AssemblyInfo.cs
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.csproj.CoreCompileInputs.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\refint\Zadanie 1. trójkąt.dll
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.pdb
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\Zadanie 1. trójkąt.genruntimeconfig.cache
+G:\Studia\Programowanie Komputerów\mgr. Andrzej Prabucki\Do oddania\Plik 1 i 2\Zadanie 1.  Trójkąt\Zadanie 1. trójkąt\obj\Debug\net6.0\ref\Zadanie 1. trójkąt.dll
